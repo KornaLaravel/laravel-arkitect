@@ -38,7 +38,7 @@
     "prefer-stable": true,
     "require": {
         "php": "^8.0",
-        "phparkitect/phparkitect": "^0.3.19"
+        "phparkitect/phparkitect": "^0.3.19 | ^0.4.0 | ^0.5.0"
     },
     "require-dev": {
         "laravel/pint": "^1.3",
